@@ -1,0 +1,4 @@
+Connection Info: <socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 6666), raddr=('127.0.0.1', 52281)>
+Actual Connection: ('127.0.0.1', 52281)
+Command From Client: ls
+Server Response: test
